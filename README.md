@@ -60,3 +60,7 @@ Member
 ## Education
 Polytechnic University of the Philippines - Manila (2023)
 - B.S. Civil Engineering Major in Geotechnical Engineering
+
+#### Links
+#[Publication] 
+![EEG Bike Study] (assets/2x2 headshot.jpg)
