@@ -44,6 +44,7 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 - Created as-found plans and conducted structural analysis, assessed and retrofitted the members including the trusses of the structure using MIDAS Gen in compliance with NSCP 2015 and ACI 318 Standards for retrofitting
 - Coordinated with architects to deliver as-found plans and detailed retrofit design using various kinds of retrofitting methods with accuracy and specific details to be manifested in the CAD drawings for submission
 
+![Assessment_Lyceum_Building B](https://github.com/fcasaclang/fccasaclang.github.io/blob/main/assets/Assessment_Lyceum Building B.png)
 ## Projects
 #### Taguig city
 - 2-storey Building
