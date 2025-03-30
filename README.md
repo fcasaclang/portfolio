@@ -1,9 +1,9 @@
-# Civil Engineer
+# Civil Engineer | Graphic Designer
 
 ### Work Experience
 Angel Lazaro & Associates International
 - St. La Salle Hall - De la Salle University (Manila)
-Manila Water
+Manila Water Company
 - Site Investigation
 DPWH: Big One Firm 4
 - Structural Design
