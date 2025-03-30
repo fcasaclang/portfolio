@@ -40,7 +40,7 @@ Registered Civil Engineer, Civil Engineering Licensure Exam (CELE) ( November 20
 - Created as-found plans and detailed retrofit design using MIDAS GEN software
 
 ## Projects
-Taguig city
+#### Taguig city
 - 2-storey Building
 
 ## Certificates
