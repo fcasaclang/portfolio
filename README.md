@@ -43,7 +43,7 @@ Registered Civil Engineer, Civil Engineering Licensure Exam (CELE) ( November 20
 Taguig city
 - 2-storey Building
 
-## CERTIFICATE/S
+## Certificates
 - On-the-Job Training (OJT) in Construction Project Management     
 - Autodesk Certified Professional: Revit for Structural Design Exam Prep	
 - Autodesk Certified Professional: Civil 3D Infrastructure Design Exam Prep
