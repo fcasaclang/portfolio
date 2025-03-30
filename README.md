@@ -36,6 +36,8 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 - Created a new roofing design as part of retrofitting suggestion in accordance with the International Federation of Red Cross and Red Crescent Societies (IFRC) manual
 - Coordinated with architects to deliver as-found plans and detailed retrofit design using various kinds of retrofitting methods with accuracy and specific details to be manifested in the CAD drawings for submission
 
+![Mac Geo](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 #### Lyceum of the Philippines University (Manila, PH)
 - Created mobilization plans and schedule to efficiently navigate on site with limited duration
 - Conducted on-site inspections to verify dimensions and conditions of structural members including trusses
