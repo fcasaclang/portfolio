@@ -1,5 +1,8 @@
 # Civil Engineer | Graphic Designer
 
+## Professional Summary
+Registered civil engineer with 1 year and 3 months of working experience in structural engineering design. He is proficient in using STAAD.Pro, MIDAS Gen, AutoCAD in creating detailed engineering designs and plans. Knowledgeable in Philippines standards (NSCP 2015) and American Standards (ACI 318) and is eager to apply my expertise on infrastructure and commercial projects. Strong problem-solving, collaboration, and teamwork skills with experience in coordinating with architects, clients, and stakeholders.
+
 ## Skills
 STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft Excel, Quantity Survey, Blender 3D, Technical/Manual Drafting
 
