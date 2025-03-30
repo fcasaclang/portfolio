@@ -10,7 +10,7 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 - Registered Civil Engineer, Civil Engineering Licensure Exam (CELE) (November 2023)
 
 ## Work Experience
-### Junior Civil Engineer @ Angel Lazaro & Associates International (February 2024 - April 2025)
+### Junior Civil Engineer @ Angel Lazaro & Associates International (February 2024 - Present)
 #### Consultancy Services for Structural Assessment & Retrofitting Design of St. La Salle Hall	(PH)
 - Analysed, Assessed and Retrofitted the existing building St. La Salle Hall Building using STAAD.Pro
 - Retrofitted over 2000+ beams using various kinds of retrofitting methods and created schedule of retrofitted members
@@ -30,12 +30,11 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 - Formatted spreadsheets and formulas to create a more efficient workflow
   
 #### Energy Development Corp: Fleet wide Structural Assessment of Essential Facilities: Structural Assessment of Mindanao Geothermal Production Field (PH)
-- Collaborated with the project manager in coordinating effectively with the client
 - Traversed hours towards the location and conducted on-site inspections to ensure structure is up to the code’s (ACE 318) standards and the physical condition of the building through crack mapping 
-- Analysed, Assessed and Retrofitted the members including the trusses of Mac Geo Building using MIDAS Gen
+- Supervised site works, and testing as part of the scope of work while collaborating with the project manager in coordinating effectively with the client
+- Analysed, Assessed and Retrofitted the members including the trusses of Mac Geo Building using MIDAS Gen in compliance with NSCP 2015 and ACI 318 Standards
 - Created a new roofing design as part of retrofitting suggestion in accordance with the International Federation of Red Cross and Red Crescent Societies (IFRC) manual
-- Created as-found plans and detailed retrofit design using various kinds of retrofitting methods
-- Coordinated with architects to deliver accurate and specific details to be manifested in the CAD drawings for submission
+- Coordinated with architects to deliver as-found plans and detailed retrofit design using various kinds of retrofitting methods with accuracy and specific details to be manifested in the CAD drawings for submission
 
 #### Lyceum of the Philippines University (Manila, PH)
 - Created mobilization plans and schedule to efWficiently navigate on site with limited duration
