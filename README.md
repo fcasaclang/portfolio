@@ -8,6 +8,7 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 
 ## Accreditations
 - Registered Civil Engineer, Civil Engineering Licensure Exam (CELE) _(November 2023)_
+_*Available upon request*_
 
 ## Work Experience
 ### Junior Civil Engineer - Angel Lazaro & Associates International _(February 2024 - Present)_
@@ -49,6 +50,8 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 ## Projects
 #### Proposed Two-storey Residential Building - Taguig City, Metro Manila (PH)
 - Conducted structural analysis of residential building and monitoring strict compliance to the standards provided by NSCP 2015 and ACI 318
+
+![Assessment_Apartment_Taguig](/assets/Assessment_Apartment_Taguig.png)
 
 ## Certificates
 - On-the-Job Training (OJT) in Construction Project Management     
