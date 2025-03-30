@@ -58,5 +58,5 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 Member
 
 ## Education
-Polytechnic University of the Philippines - Manila (2018-2023)
+Polytechnic University of the Philippines - Manila (2023)
 - B.S. Civil Engineering Major in Geotechnical Engineering
