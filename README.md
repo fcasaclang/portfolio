@@ -3,12 +3,16 @@
 ### Work Experience
 Angel Lazaro & Associates International
 - St. La Salle Hall - De la Salle University (Manila)
+
 Manila Water Company
 - Site Investigation
+
 DPWH: Big One Firm 4
 - Structural Design
+
 Energy Development Corporation (EDC) - Kidapawan
 - Mac Geo Building
+
 Lyceum of the Philippines University (Manila)
 - Retrofit
 
