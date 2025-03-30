@@ -36,7 +36,7 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 - Created a new roofing design as part of retrofitting suggestion in accordance with the International Federation of Red Cross and Red Crescent Societies (IFRC) manual
 - Coordinated with architects to deliver as-found plans and detailed retrofit design using various kinds of retrofitting methods with accuracy and specific details to be manifested in the CAD drawings for submission
 
-![Mac Geo](https://github.com/fcasaclang/fccasaclang.github.io/blob/main/assets/Assessment.png)
+![Mac Geo](/assets/Assessment.png)
 
 #### Lyceum of the Philippines University (Manila, PH)
 - Created mobilization plans and schedule to efficiently navigate on site with limited duration
@@ -44,7 +44,7 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 - Created as-found plans and conducted structural analysis, assessed and retrofitted the members including the trusses of the structure using MIDAS Gen in compliance with NSCP 2015 and ACI 318 Standards for retrofitting
 - Coordinated with architects to deliver as-found plans and detailed retrofit design using various kinds of retrofitting methods with accuracy and specific details to be manifested in the CAD drawings for submission
 
-![Assessment_Lyceum_Building B](https://github.com/fcasaclang/fccasaclang.github.io/blob/main/assets/Assessment_Lyceum%20Building%20B.png)
+![Assessment_Lyceum_Building B](/assets/Assessment_Lyceum%20Building%20B.png)
 
 ## Projects
 #### Taguig city
