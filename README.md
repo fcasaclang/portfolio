@@ -59,4 +59,4 @@ Member
 
 ## Education
 Polytechnic University of the Philippines - Manila (2018-2023)
-- Civil Engineering Major in Geotechnical Engineering
+- B.S. Civil Engineering Major in Geotechnical Engineering
