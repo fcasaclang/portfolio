@@ -7,8 +7,7 @@ Registered civil engineer with 1 year and 3 months of working experience in stru
 STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft Excel, Quantity Survey, Blender 3D, Technical/Manual Drafting
 
 ## Accreditations
-- Registered Civil Engineer, Civil Engineering Licensure Exam (CELE) _(November 2023)_
-_*Available upon request*_
+- Registered Civil Engineer, Civil Engineering Licensure Exam (CELE) _(November 2023, Available upon request)_
 
 ## Work Experience
 ### Junior Civil Engineer - Angel Lazaro & Associates International _(February 2024 - Present)_
