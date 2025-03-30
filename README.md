@@ -7,10 +7,10 @@ Registered civil engineer with 1 year and 3 months of working experience in stru
 STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft Excel, Quantity Survey, Blender 3D, Technical/Manual Drafting
 
 ## Accreditations
-- Registered Civil Engineer, Civil Engineering Licensure Exam (CELE) (November 2023)
+- Registered Civil Engineer, Civil Engineering Licensure Exam (CELE) _(November 2023)_
 
 ## Work Experience
-### Junior Civil Engineer - Angel Lazaro & Associates International (February 2024 - Present)
+### Junior Civil Engineer - Angel Lazaro & Associates International _(February 2024 - Present)_
 #### Consultancy Services for Structural Assessment & Retrofitting Design of St. La Salle Hall	(PH)
 - Conducted structural analysis, assessed and retrofitted the existing building St. La Salle Hall Building using STAAD.Pro in compliance with NSCP 2015 and ACI 318 for structural retrofitting
 - Retrofitted over 2000+ beams using various kinds of retrofitting methods and created schedule of retrofitted members
@@ -58,7 +58,7 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 Member
 
 ## Education
-Polytechnic University of the Philippines - Manila (2023)
+Polytechnic University of the Philippines - Manila _(2023)_
 - B.S. Civil Engineering Major in Geotechnical Engineering
 
 #### Links
