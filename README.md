@@ -28,7 +28,9 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 - Illustrated detailed structural design of beams, columns, footings, and trusses using AutoCAD
 - Coordinated with architects to make sure minimum architectural standards are met and revisions are clearly addressed and implemented.
 - Formatted and refined spreadsheets and formulas to create a more efficient workflow 
-  
+
+![Kapitolyo_Pasig](/assets/Assessment_Kapitolyo_Pasig.png)  
+
 #### Energy Development Corp: Fleet wide Structural Assessment of Essential Facilities: Structural Assessment of Mindanao Geothermal Production Field (PH)
 - Traversed hours towards the location and conducted on-site inspections to ensure structure is up to the code’s (NSCP 2015, ACI 318, ACI-440-2R-17) standards and the physical condition of the building through crack mapping 
 - Supervised site works, and testing as part of the scope of work while collaborating with the project manager in coordinating effectively with the client
