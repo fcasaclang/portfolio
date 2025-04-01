@@ -70,5 +70,5 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 - B.S. Civil Engineering Major in Geotechnical Engineering
 
 ## Links
-[/assets.linkedin-logo.png](www.linkedin.com/in/franzclarencecasaclang)
+![LinkedIn](www.linkedin.com/in/franzclarencecasaclang)
 
