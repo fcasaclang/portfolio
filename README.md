@@ -1,4 +1,4 @@
-# Registered Civil Engineer 
+# Registered Civil Engineer | Graphic Artist | Photographer
 
 ## Professional Summary
 Registered civil engineer with 1 year and 3 months of working experience in structural engineering design and retrofit. Proficient in using STAAD.Pro, MIDAS Gen, AutoCAD in creating detailed engineering designs and plans. Knowledgeable in Philippines standards (NSCP 2015) and American Standards (ACI 318, ACI-440-2R-17) and is eager to apply my expertise on infrastructure and commercial projects. Strong problem-solving, collaboration, and teamwork skills with experience in coordinating with architects, clients, and stakeholders.
