@@ -69,6 +69,6 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 #### Polytechnic University of the Philippines - Manila _(2023)_
 - B.S. Civil Engineering Major in Geotechnical Engineering
 
-#### Links
-#[LinkedIn](www.linkedin.com/in/franzclarencecasaclang)
+## Links
+####[LinkedIn Profile](www.linkedin.com/in/franzclarencecasaclang)
 
