@@ -3,10 +3,6 @@
 ## Professional Summary
 Registered civil engineer with 1 year and 3 months of working experience in structural engineering design and retrofit. Proficient in using STAAD.Pro, MIDAS Gen, AutoCAD in creating detailed engineering designs and plans. Knowledgeable in Philippines standards (NSCP 2015) and American Standards (ACI 318, ACI-440-2R-17) and is eager to apply my expertise on infrastructure and commercial projects. Strong problem-solving, collaboration, and teamwork skills with experience in coordinating with architects, clients, and stakeholders.
 
-Graduate of Bachelor of Science in Civil Engineering from Polytechnic University of the Philippines - Sta. Mesa (PUP). I was a Former member of the Philippine Institute of Civil Engineers - PUP Student Chapter (2018-2019). I passed the Civil Engineering Licensure Exam (November 2023) and took my oath to become a Registered Civil Engineer. He continues and pursues to upskill in different engineering softwares used in design (Civil 3D, Staad.Pro, AutoCAD), building information modelling (Revit), and project management (Primavera P6) through online courses and other sources from the internet.
-
-Franz is interested in running small businesses. He established Odyssey Clothing Co. together with 4 of his close friends in 2018, The Flourpuff Co., and All About Aesthetics.
-
 ## Skills
 STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft Excel, Quantity Survey, Blender 3D, Technical/Manual Drafting
 
