@@ -30,7 +30,7 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 - Formatted and refined spreadsheets and formulas to create a more efficient workflow 
 
 ![Kapitolyo_Pasig](/assets/Assessment_Kapitolyo_Pasig.png)
-_Mathematical model of Kapitolyo High School, one out of 4 buildings modelled and retrofitted in MIDAS Gen._
+_Mathematical model of Kapitolyo High School, a five-storey building, and one of the 4 buildings modelled and retrofitted in MIDAS Gen._
 
 #### Energy Development Corp: Fleet wide Structural Assessment of Essential Facilities: Structural Assessment of Mindanao Geothermal Production Field (PH)
 - Traversed hours towards the location and conducted on-site inspections to ensure structure is up to the code’s (NSCP 2015, ACI 318, ACI-440-2R-17) standards and the physical condition of the building through crack mapping 
@@ -40,6 +40,7 @@ _Mathematical model of Kapitolyo High School, one out of 4 buildings modelled an
 - Coordinated with architects to deliver as-found plans and detailed retrofit design using various kinds of retrofitting methods with accuracy and specific details to be manifested in the CAD drawings for submission
 
 ![Mac Geo_Kidapawan](/assets/Assessment_Kidapawan.png)
+_Mathematical model of Mac Geo Building with columns, beams, truss beams modelled and retrofitted in MIDAS Gen._
 
 #### Lyceum of the Philippines University (Manila, PH)
 - Created mobilization plans and schedule to efficiently navigate on site with limited duration
@@ -48,12 +49,14 @@ _Mathematical model of Kapitolyo High School, one out of 4 buildings modelled an
 - Coordinated with architects to deliver as-found plans and detailed retrofit design using various kinds of retrofitting methods with accuracy and specific details to be manifested in the CAD drawings for submission
 
 ![Assessment_Lyceum_Building B](/assets/Assessment_Lyceum_Building_B.png)
+_Mathematical model of Building B of Lyceum of the Philippines University that was modelled and retrofitted in MIDAS Gen._
 
 ## Projects
 #### Proposed Two-storey Residential Building - Taguig City, Metro Manila (PH)
 - Conducted structural analysis of residential building and monitoring strict compliance to the standards provided by NSCP 2015 and ACI 318
 
 ![Assessment_Apartment_Taguig](/assets/Assessment_Apartment_Taguig.png)
+_Mathematical model of the two-storey aparment that was modelled and assessed in MIDAS Gen._
 
 ## Certificates
 - On-the-Job Training (OJT) in Construction Project Management     
