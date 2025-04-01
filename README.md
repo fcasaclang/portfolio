@@ -62,11 +62,11 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 - Google: Foundations of Project Management       	     
 
 ## Organizations
-- Philippine Institute of Civil Engineers - PUP Student Chapter
-Member
+#### Philippine Institute of Civil Engineers - PUP Student Chapter
+- Member
 
 ## Education
-Polytechnic University of the Philippines - Manila _(2023)_
+#### Polytechnic University of the Philippines - Manila _(2023)_
 - B.S. Civil Engineering Major in Geotechnical Engineering
 
 #### Links
