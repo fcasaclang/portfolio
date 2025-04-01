@@ -29,7 +29,8 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 - Coordinated with architects to make sure minimum architectural standards are met and revisions are clearly addressed and implemented.
 - Formatted and refined spreadsheets and formulas to create a more efficient workflow 
 
-![Kapitolyo_Pasig](/assets/Assessment_Kapitolyo_Pasig.png)  
+![Kapitolyo_Pasig](/assets/Assessment_Kapitolyo_Pasig.png)
+_Mathematical model of Kapitolyo High School, one out of 4 buildings modelled and retrofitted in MIDAS Gen._
 
 #### Energy Development Corp: Fleet wide Structural Assessment of Essential Facilities: Structural Assessment of Mindanao Geothermal Production Field (PH)
 - Traversed hours towards the location and conducted on-site inspections to ensure structure is up to the code’s (NSCP 2015, ACI 318, ACI-440-2R-17) standards and the physical condition of the building through crack mapping 
