@@ -26,7 +26,7 @@ STAAD Pro, MIDAS Gen, Civil 3D, Revit, AutoCAD, Microsoft PowerPoint, Microsoft 
 - Created a standalone steel staircase as an additional structure to address accessibility issues for public schools compliance to the code
 - Created schedules of every structural member for clear tabulation and enumeration for easier estimation of costs and quantities
 - Illustrated detailed structural design of beams, columns, footings, and trusses using AutoCAD
-- Coordinated with architects to make sure minimum architectural standards are met and revisions are clearly addressed and implemented.
+- Coordinated with architects to make sure minimum architectural standards are met and revisions are clearly addressed and implemented
 - Formatted and refined spreadsheets and formulas to create a more efficient workflow 
 
 ![Kapitolyo_Pasig](/assets/Assessment_Kapitolyo_Pasig.png)
