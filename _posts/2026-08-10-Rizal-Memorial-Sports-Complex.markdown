@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: August 2026
-img: 
+img: RSMC_Baseball.png
 alt: image-alt
 structural-consultant: Angel Lazaro and Associates International
 client: Rizal Memorial Sports Complex
