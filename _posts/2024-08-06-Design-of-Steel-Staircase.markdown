@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: August 2024
-img: 
+date: August 2026
+img: RSMC_Baseball.png
 alt: image-alt
 structural-consultant: Angel Lazaro and Associates International
-client: Department of Public Works and Highways & World Bank
+client: Rizal Memorial Sports Complex
 role: Structural Engineer & Designer
-description: Created a detailed engineering design of a standalone steel staircase that will serve as an exit facility for a public school. The steel staircase is connected to an existing building and is added as a supplemental structure for an existing project.
+description: A renovation that requires the design of purlins capable of withstanding loads compliant under the updated codes of NSCP and ACI 318. Retrofitting is essential to specific structural members that will carry the updated loads.
 ---
